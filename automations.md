@@ -65,7 +65,7 @@ Click to jump to a category:
 
 | Name | Description |
 |------|-------------|
-| [Room Presence Lighting](../automations/room_presence_lighting.yaml) | Controls lights using presence sensors. |
+| [Room Presence Lighting](automations/room_presence_lighting.md) | Turns lights on/off based on presence in a room. |
 | [Night Motion Lights](../automations/night_motion_lights.yaml) | Trigger dimmed lighting with motion at night. |
 
 ---
