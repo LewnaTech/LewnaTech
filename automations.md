@@ -1,49 +1,38 @@
 # ⚡ Home Assistant Automations
 
-Welcome to the LewnaTech automation library – a growing collection of real-world Home Assistant automation YAMLs that you can use, tweak, and build on.
+Welcome to the LewnaTech Automation Library – a growing collection of smart, useful automations designed to enhance your Home Assistant setup.
 
----
-
-## 📂 Categories
-
-- **Lighting**  
-  Motion-activated lights, adaptive brightness, and more.
-
-- **Security & Presence**  
-  Presence detection, alarm triggers, and occupancy-based automations.
-
-- **Comfort & Environment**  
-  Heating boosts, window open detection, and air quality alerts.
-
-- **Voice & Media**  
-  Automations triggered by Apple Home, Alexa, or media states.
-
-- **Over-Engineered (But Fun)**  
-  Automations that go too far – just because we can.
+Each automation below includes a description, YAML file, and guidance on how to implement and customise it for your own system.
 
 ---
 
 ## 🧩 How to Use
 
-Each automation is stored in its own file under the `automations/` folder.
+- Each automation is provided as a standalone `.yaml` file inside the `automations/` folder.
+- You can copy the contents into your `automations.yaml` file or import them via the Home Assistant UI.
+- YAML files contain **placeholder entity IDs** like `light.example_light` or `sensor.example_sensor`.
 
-You can copy and paste them into your `automations.yaml` or use them with Home Assistant's UI YAML editor.
-
----
-
-## 📄 Available Automations
-
-| Name | Description | Link |
-|------|-------------|------|
-| **Lights Off When Leaving** | Turns off all lights if no one is home | [View YAML](automations/lights_off_when_leaving.yaml) |
-| **Morning Wake-Up Scene** | Automatically starts your morning scene | [View YAML](automations/morning_wake_up.yaml) |
-| **Tesla Boot Control** | Button to open/close Tesla boot | [View YAML](automations/tesla_boot_control.yaml) |
-| **Roborock Room Clean** | Triggers room-based Roborock clean via popup | [View YAML](automations/roborock_room_clean.yaml) |
-
-> *More automations coming soon...*
+> ⚠️ **Important:**  
+> You must **replace these placeholders** with your actual entity names from your own Home Assistant setup before saving.
 
 ---
 
-## ☕ Support
+## 📁 Available Automations
 
-Found this useful? [Buy me a coffee](https://ko-fi.com/lewnatech)
+| Name | Description |
+|------|-------------|
+| [Room Presence Lighting](../automations/room_presence_lighting.yaml) | Automatically turns lights on/off based on presence in a room. |
+| [Sunset Lamp Trigger](../automations/sunset_lamp_trigger.yaml) | Turns on ambient lamps at sunset. |
+| [TV Mode Lighting](../automations/tv_mode_lighting.yaml) | Dims or turns off lights when TV is playing. |
+| [Night Motion Lights](../automations/night_motion_lights.yaml) | Activates dimmed lighting during night-time bathroom trips. |
+| [Washing Machine Done Alert](../automations/washing_machine_done.yaml) | Sends a notification when the washing machine finishes. |
+
+> New automations are added regularly – check back for updates or follow on [GitHub](https://github.com/LewnaTech).
+
+---
+
+## ☕ Support the Project
+
+If you find this collection useful, please consider supporting LewnaTech:
+
+[![Support LewnaTech](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/lewnatech)
