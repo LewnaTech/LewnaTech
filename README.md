@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🏠 LewnaTech – Home Assistant Resources
 
-<!--
-**LewnaTech/LewnaTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official LewnaTech smart home collection.  
+This repository includes free automations, dashboards, scripts, and YAML resources for Home Assistant.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Categories
+
+- ⚡ [Automations](./automations)
+- 🖥️ [Dashboards](./dashboards)
+- 🧰 [Scripts](./scripts)
+- 📘 [Guides](./guides)
+
+---
+
+## ☕ Support
+If you find this useful, consider buying me a coffee:  
+[https://ko-fi.com/lewnatech](https://ko-fi.com/lewnatech)
