@@ -1,38 +1,83 @@
 # ⚡ Home Assistant Automations
 
-Welcome to the LewnaTech Automation Library – a growing collection of smart, useful automations designed to enhance your Home Assistant setup.
-
-Each automation below includes a description, YAML file, and guidance on how to implement and customise it for your own system.
+Welcome to the LewnaTech Automation Library – a growing collection of smart, useful automations for your Home Assistant setup.
 
 ---
 
 ## 🧩 How to Use
 
-- Each automation is provided as a standalone `.yaml` file inside the `automations/` folder.
-- You can copy the contents into your `automations.yaml` file or import them via the Home Assistant UI.
-- YAML files contain **placeholder entity IDs** like `light.example_light` or `sensor.example_sensor`.
+- Each automation is a standalone `.yaml` file in the `automations/` folder.
+- You can copy the YAML into your `automations.yaml` file or import it via the Home Assistant UI.
+- Placeholders like `light.example_light` must be replaced with your actual entity names.
 
-> ⚠️ **Important:**  
-> You must **replace these placeholders** with your actual entity names from your own Home Assistant setup before saving.
+> ⚠️ **Important:** Always review YAML and update entity names to match your Home Assistant setup.
 
 ---
 
-## 📁 Available Automations
+## 📚 Categories
+
+Click to jump to a category:
+
+- [💡 Lighting](#-lighting)
+- [📺 Media / TV](#-media--tv)
+- [🌅 Time-Based](#-time-based)
+- [🧼 Appliances](#-appliances)
+- [🚪 Presence & Motion](#-presence--motion)
+- [🧪 Miscellaneous](#-miscellaneous)
+
+---
+
+## 💡 Lighting
 
 | Name | Description |
 |------|-------------|
-| [Room Presence Lighting](../automations/room_presence_lighting.yaml) | Automatically turns lights on/off based on presence in a room. |
-| [Sunset Lamp Trigger](../automations/sunset_lamp_trigger.yaml) | Turns on ambient lamps at sunset. |
-| [TV Mode Lighting](../automations/tv_mode_lighting.yaml) | Dims or turns off lights when TV is playing. |
-| [Night Motion Lights](../automations/night_motion_lights.yaml) | Activates dimmed lighting during night-time bathroom trips. |
-| [Washing Machine Done Alert](../automations/washing_machine_done.yaml) | Sends a notification when the washing machine finishes. |
-
-> New automations are added regularly – check back for updates or follow on [GitHub](https://github.com/LewnaTech).
+| [Room Presence Lighting](../automations/room_presence_lighting.yaml) | Turns lights on/off based on presence in a room. |
+| [Sunset Lamp Trigger](../automations/sunset_lamp_trigger.yaml) | Automatically turns on lamps at sunset. |
+| [Night Motion Lights](../automations/night_motion_lights.yaml) | Activates dimmed lighting for night-time motion. |
 
 ---
 
-## ☕ Support the Project
+## 📺 Media / TV
 
-If you find this collection useful, please consider supporting LewnaTech:
+| Name | Description |
+|------|-------------|
+| [TV Mode Lighting](../automations/tv_mode_lighting.yaml) | Dims or switches off lighting when TV is in use. |
+
+---
+
+## 🌅 Time-Based
+
+| Name | Description |
+|------|-------------|
+| [Sunset Lamp Trigger](../automations/sunset_lamp_trigger.yaml) | Automatically turns on lamps at sunset. |
+
+---
+
+## 🧼 Appliances
+
+| Name | Description |
+|------|-------------|
+| [Washing Machine Done Alert](../automations/washing_machine_done.yaml) | Sends a phone notification when the cycle finishes. |
+
+---
+
+## 🚪 Presence & Motion
+
+| Name | Description |
+|------|-------------|
+| [Room Presence Lighting](../automations/room_presence_lighting.yaml) | Controls lights using presence sensors. |
+| [Night Motion Lights](../automations/night_motion_lights.yaml) | Trigger dimmed lighting with motion at night. |
+
+---
+
+## 🧪 Miscellaneous
+
+More coming soon...
+
+---
+
+## ☕ Support
+
+If you find this useful, consider supporting the project:  
 
 [![Support LewnaTech](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/lewnatech)
