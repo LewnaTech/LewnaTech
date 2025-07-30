@@ -11,6 +11,7 @@ Designed to work with Adaptive Lighting for a natural ambient feel.
 - [Adaptive Lighting integration](https://github.com/basnijholt/adaptive-lighting) **(Optional)**
 - Presence sensor (e.g. [Aqara FP2 – Amazon Affiliate](https://www.amazon.co.uk/s?k=Aqara+FP2&tag=YOUR_TAG))
 - Light entity (e.g. smart downlights)
+- [![Support LewnaTech](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/lewnatech)
 
 ---
 
@@ -90,3 +91,5 @@ mode: restart
 ---
 
 🆕 More automations added regularly — [Follow on GitHub](https://github.com/LewnaTech/LewnaTech) for updates!
+
+[![Support LewnaTech](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/lewnatech)
