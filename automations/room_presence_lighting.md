@@ -5,6 +5,11 @@ Designed to work with Adaptive Lighting for a natural ambient feel.
 
 ---
 
+## 🎥 Sample
+<p align="left">
+      <img src="https://i.imgur.com/1bdGfEe.gif" width="300" height="300">
+      </p>
+
 ## 🔧 Requirements
 
 - Home Assistant set up and running ([Setup Guide](https://www.home-assistant.io/getting-started/))
