@@ -17,4 +17,4 @@ This repository includes free automations, dashboards, scripts, and YAML resourc
 ## ☕ Support
 If you find this useful, consider buying me a coffee:
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support%20LewnaTech-orange?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/lewnatech)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support%20LewnaTech-blue?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/lewnatech)
