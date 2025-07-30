@@ -7,7 +7,7 @@ This repository includes free automations, dashboards, scripts, and YAML resourc
 
 ## 📁 Categories
 
-- ⚡ [Automations](./automations)
+- ⚡ [Automations](./automations.md)
 - 🖥️ [Dashboards](./dashboards)
 - 🧰 [Scripts](./scripts)
 - 📘 [Guides](./guides)
