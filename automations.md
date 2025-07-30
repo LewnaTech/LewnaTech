@@ -31,7 +31,7 @@ Click to jump to a category:
 
 | Name | Description |
 |------|-------------|
-| [Room Presence Lighting](../automations/room_presence_lighting.md) | Turns lights on/off based on presence in a room. | 
+| [Room Presence Lighting](automations/room_presence_lighting.md) | Turns lights on/off based on presence in a room. | 
 | [Sunset Lamp Trigger](../automations/sunset_lamp_trigger.yaml) | Automatically turns on lamps at sunset. |
 | [Night Motion Lights](../automations/night_motion_lights.yaml) | Activates dimmed lighting for night-time motion. |
 
