@@ -20,7 +20,7 @@ Designed to work with Adaptive Lighting for a natural ambient feel.
 > ⚠️ **IMPORTANT**: Replace all placeholders (in CAPS) with your own Home Assistant entity IDs before saving.
 
 ```yaml
-alias: Room Presence Lighting (Adaptive Lighting, 10s Off Delay)
+alias: Room Presence Lighting (Adaptive Lighting, Timer Off Delay)
 trigger:
   - platform: state
     entity_id: BINARY_SENSOR.ROOM_OCCUPANCY
@@ -64,30 +64,70 @@ mode: restart
 
 ## 🛠️ Step-by-Step Installation
 
-1. Click **Settings** in Home Assistant  
-   _↪️ Insert GIF here_
+1. Click **Settings** in Home Assistant
+- <details>
+      <summary>Show GIF demo</summary>
+      <p align="left">
+      <img src="https://i.imgur.com/bq2St4B.gif" width="300" height="300">
+      </p>
+      </details>
 
-2. Click **Automations & Scenes** → **Automations**  
-   _↪️ Insert GIF here_
+3. Click **Automations & Scenes** → **Automations**  
+- <details>
+      <summary>Show GIF demo</summary>
+      <p align="left">
+      <img src="https://i.imgur.com/40ijoX0.gif" width="300" height="300">
+      </p>
+      </details>
 
-3. Click **+ Create Automation**  
-   _↪️ Insert GIF here_
+5. Click **+ Create Automation**  
+- <details>
+      <summary>Show GIF demo</summary>
+      <p align="left">
+      <img src="https://i.imgur.com/RQsahkN.gif" width="300" height="300">
+      </p>
+      </details>
 
-4. Select **Start with an empty automation**  
-   _↪️ Insert GIF here_
+6. Select **Start with an empty automation**  
+- <details>
+      <summary>Show GIF demo</summary>
+      <p align="left">
+      <img src="https://i.imgur.com/86i35Gs.gif" width="300" height="300">
+      </p>
+      </details>
 
-5. Click the **three-dot menu** (⋮) in the top-right corner and choose **Edit in YAML**  
-   _↪️ Insert GIF here_
+7. Click the **three-dot menu** (⋮) in the top-right corner and choose **Edit in YAML**  
+- <details>
+      <summary>Show GIF demo</summary>
+      <p align="left">
+      <img src="https://i.imgur.com/AmrddUY.gif" width="300" height="300">
+      </p>
+      </details>
 
-6. Paste the YAML code above into the editor  
-   _↪️ Insert GIF here_
+8. Paste the YAML code above into the editor **(Remove sample code)** 
+- <details>
+      <summary>Show GIF demo</summary>
+      <p align="left">
+      <img src="https://i.imgur.com/GyaA2AT.gif" width="300" height="300">
+      </p>
+      </details>
 
-7. Replace all placeholders (in CAPS) with your own Home Assistant entity IDs before saving  
-   _↪️ Insert GIF here_
+9. Replace **ALL** placeholders (in CAPS) with your own Home Assistant entity IDs before saving  
+- <details>
+      <summary>Show GIF demo</summary>
+      <p align="left">
+      <img src="https://i.imgur.com/KhMXyIP.gif" width="300" height="300">
+      </p>
+      </details>
  
-9. Click **Save**, give your automation a name, and you’re done!  
-   _↪️ Insert GIF here_
-
+10. Click **Save**, give your automation a name, and you’re done! 
+- <details>
+      <summary>Show GIF demo</summary>
+      <p align="left">
+      <img src="https://i.imgur.com/vgJctMW.gif" width="300" height="300">
+      </p>
+      </details>
+      
 ---
 
 🆕 More automations added regularly — [Follow on GitHub](https://github.com/LewnaTech/LewnaTech) for updates!
