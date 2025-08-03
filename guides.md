@@ -27,7 +27,7 @@ Click to jump to a section:
 
 | Guide | Description |
 |-------|-------------|
-| [Install Home Assistant on Raspberry Pi](guides/install_home_assistant_pi.md) | Full beginner guide with Wi‑Fi setup, flashing, and tips. |
+| [Install Home Assistant on Raspberry Pi](guides/setup-home-assistant-pi.md) | Full beginner guide with Wi‑Fi setup, flashing, and tips. |
 | [Understanding Home Assistant Structure](guides/getting_started_structure.md) | Learn what configuration.yaml, automations.yaml, and secrets.yaml do. |
 | [How to Find Your Entity IDs](guides/finding_entity_ids.md) | Easily identify and test entity IDs for your devices. |
 
