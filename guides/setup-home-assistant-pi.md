@@ -8,13 +8,12 @@ Welcome to the **Ultimate Beginner Guide** to installing **Home Assistant** on a
 
 | Item | Purpose | Link |
 |------|---------|------|
-| **Raspberry Pi 4 (4GB or 8GB)** | The brains of the system | [Buy on Amazon](#your-affiliate-link) |
-| **32GB+ MicroSD Card (Class 10)** | For the Home Assistant OS | [Buy on Amazon](#your-affiliate-link) |
-| **MicroSD Card Reader** | For flashing the image on your PC/Mac | [Buy on Amazon](#your-affiliate-link) |
-| **USB-C Power Supply (5V/3A min)** | Official or reliable 3rd party | [Buy on Amazon](#your-affiliate-link) |
+| **Raspberry Pi 4 (4GB or 8GB)** | The brains of the system | [Buy on Amazon](https://amzn.to/3IYq0Lt) |
+| **32GB+ MicroSD Card (Class 10)** | For the Home Assistant OS | [Buy on Amazon](https://amzn.to/4l5EkyZ) |
+| **MicroSD Card Reader** | For flashing the image on your PC/Mac | [Buy on Amazon](https://amzn.to/4fkTgb9) |
+| **Raspberry Pi Case + Heatsink/Fan + USB-C Power Supply** | My personal preferance | [Buy on Amazon](https://amzn.to/4lW7Nwp) |
 | **PC or Mac** | To prepare the microSD card |
 | **Wi-Fi or Ethernet Connection** | See Wi‑Fi setup below |
-| (Optional) **Raspberry Pi Case + Heatsink/Fan** | For cooling and protection | [Buy on Amazon](#your-affiliate-link) |
 
 ---
 
@@ -120,10 +119,7 @@ http://<YOUR_PI_IP>:8123
 
 | Item | Use | Link |
 |------|-----|------|
-| **USB SSD** | More reliable than microSD | [Buy on Amazon](#your-affiliate-link) |
-| **Zigbee USB Stick (Sonoff/Zooz)** | Control Zigbee devices directly | [Buy on Amazon](#your-affiliate-link) |
-| **Z-Wave USB Stick** | For Z-Wave smart gear | [Buy on Amazon](#your-affiliate-link) |
-| **GPIO sensor modules** | For custom automations | [Buy on Amazon](#your-affiliate-link) |
+| **Zigbee USB Stick (Sonoff/Zooz)** | Control Zigbee devices directly without hubs | [Buy on Amazon](https://amzn.to/45xfmE5) |
 
 ---
 
