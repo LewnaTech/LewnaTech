@@ -14,7 +14,7 @@ Designed to work with Adaptive Lighting for a natural ambient feel.
 
 - Home Assistant set up and running ([Setup Guide](https://www.home-assistant.io/getting-started/))
 - [Adaptive Lighting integration](https://github.com/basnijholt/adaptive-lighting) **(Optional)**
-- Presence sensor (e.g. [Aqara FP2 – Amazon Affiliate](https://amzn.to/45pg5qV))
+- Presence sensor entity (e.g. [Aqara FP2 – Amazon Affiliate](https://amzn.to/45pg5qV))
 - Light entity (e.g. smart downlights)
 - [![Support LewnaTech](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/lewnatech)
 
